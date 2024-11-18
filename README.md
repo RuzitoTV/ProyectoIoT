@@ -19,4 +19,5 @@ Este proyecto consiste en la Apertura y Cierre, Activación Automatizada de una 
 * Cables Macho a Macho
 
 # Esquema de Conexión
+(cambio de Arduino por ESP8266)
 ![](https://i.imgur.com/A0HyxWK.png)
