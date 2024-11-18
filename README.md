@@ -3,6 +3,10 @@
 
 Este proyecto consiste en la Apertura y Cierre, Activación Automatizada de una Puerta de Garaje o Plaza de Estacionamiento privado, en el cual su uso es unicamente PERSONAL y no comercial para ser utilizado en Centros comerciales o estacionamientos publicos, ya que este proyecto como tal no cuenta con un sistema de seguridad avanzado, por lo cual, solamente es utilizado con fines particulares.
 
+# Integrantes:
+* Maricel Gatica
+* Maximiliano Ruiz
+
 # Lista de Materiales
 * x1 Protoboard
 * x1 Placa ESP8266 WiFi
